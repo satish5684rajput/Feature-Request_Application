@@ -2,6 +2,7 @@
 import os
 import sys
 
+# changes in 2 branch
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "my_feature_requests.settings")
     try:

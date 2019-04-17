@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-
-
-# This is project manager file
 import os
 import sys
 
